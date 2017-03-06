@@ -1,0 +1,141 @@
+
+Currently analysing: Rap
+
+Currently analysing: Rock Pop
+
+Currently analysing: Country
+
+Probabilities per word
+    de : 0.04333 
+niggaz : 0.06467 
+    ya : 0.17833 
+   und : 0.03100 
+  yall : 0.10233 
+   ich : 0.02767 
+  fuck : 0.16900 
+  shit : 0.18633 
+    yo : 0.14833 
+ bitch : 0.11167 
+   end : 0.17367 
+  wait : 0.14800 
+ again : 0.20000 
+ light : 0.19467 
+   eye : 0.26700 
+  noth : 0.14500 
+   lie : 0.13033 
+  fall : 0.17800 
+   our : 0.21900 
+  away : 0.25033 
+  gone : 0.17633 
+  good : 0.23300 
+ night : 0.28700 
+  blue : 0.10600 
+  home : 0.20167 
+  long : 0.22500 
+ littl : 0.23300 
+  well : 0.24300 
+ heart : 0.26500 
+   old : 0.18200 
+
+Probabilities For Rap
+    de : 0.08700 
+niggaz : 0.18500 
+    ya : 0.43900 
+   und : 0.06200 
+  yall : 0.28200 
+   ich : 0.05700 
+  fuck : 0.41200 
+  shit : 0.50800 
+    yo : 0.41100 
+ bitch : 0.31200 
+   end : 0.17900 
+  wait : 0.11600 
+ again : 0.17100 
+ light : 0.19600 
+   eye : 0.23200 
+  noth : 0.12000 
+   lie : 0.11100 
+  fall : 0.14100 
+   our : 0.21400 
+  away : 0.16200 
+  gone : 0.17300 
+  good : 0.26900 
+ night : 0.22400 
+  blue : 0.09500 
+  home : 0.18900 
+  long : 0.18300 
+ littl : 0.24100 
+  well : 0.21300 
+ heart : 0.16400 
+   old : 0.14100 
+
+Probabilities For Rock Pop
+    de : 0.03700 
+niggaz : 0.00600 
+    ya : 0.04500 
+   und : 0.03100 
+  yall : 0.00600 
+   ich : 0.02600 
+  fuck : 0.08700 
+  shit : 0.04000 
+    yo : 0.02200 
+ bitch : 0.01800 
+   end : 0.19900 
+  wait : 0.18900 
+ again : 0.22000 
+ light : 0.19900 
+   eye : 0.30800 
+  noth : 0.19100 
+   lie : 0.18500 
+  fall : 0.22300 
+   our : 0.23700 
+  away : 0.32000 
+  gone : 0.15300 
+  good : 0.15700 
+ night : 0.26400 
+  blue : 0.06300 
+  home : 0.16000 
+  long : 0.17800 
+ littl : 0.14700 
+  well : 0.19600 
+ heart : 0.26000 
+   old : 0.11000 
+
+Probabilities For Country
+    de : 0.00600 
+niggaz : 0.00300 
+    ya : 0.05100 
+   und : 0.00000 
+  yall : 0.01900 
+   ich : 0.00000 
+  fuck : 0.00800 
+  shit : 0.01100 
+    yo : 0.01200 
+ bitch : 0.00500 
+   end : 0.14300 
+  wait : 0.13900 
+ again : 0.20900 
+ light : 0.18900 
+   eye : 0.26100 
+  noth : 0.12400 
+   lie : 0.09500 
+  fall : 0.17000 
+   our : 0.20600 
+  away : 0.26900 
+  gone : 0.20300 
+  good : 0.27300 
+ night : 0.37300 
+  blue : 0.16000 
+  home : 0.25600 
+  long : 0.31400 
+ littl : 0.31100 
+  well : 0.32000 
+ heart : 0.37100 
+   old : 0.29500 
+
+       a        b        c
+     751      154       95 | a = Rap
+      64      629      307 | b = Rock Pop
+      28      263      709 | c = Country
+
+Accuracy: 69.63 % 
