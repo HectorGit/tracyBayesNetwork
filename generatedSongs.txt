@@ -1,0 +1,53 @@
+
+Generating 5 Rap Songs
+-----------------------------------------------------
+['away' 'night' 'niggaz' 'de' 'long' 'away' 'again' 'away' 'lie' 'niggaz'
+ 'heart' 'old' 'yo' 'yall' 'niggaz' 'end' 'heart' 'our' 'de' 'eye' 'und'
+ 'again' 'de' 'bitch' 'und']
+['blue' 'lie' 'noth' 'yo' 'ya' 'wait' 'light' 'end' 'wait' 'away' 'long'
+ 'long' 'blue' 'our' 'shit' 'end' 'yo' 'light' 'night' 'heart' 'bitch'
+ 'well' 'our' 'old' 'ya']
+['de' 'end' 'gone' 'good' 'eye' 'lie' 'gone' 'niggaz' 'again' 'gone' 'gone'
+ 'fall' 'lie' 'old' 'away' 'end' 'light' 'good' 'noth' 'wait']
+['lie' 'blue' 'und' 'old' 'littl' 'shit' 'light' 'blue' 'well' 'wait'
+ 'away' 'littl' 'long' 'und' 'away' 'yall' 'noth' 'eye' 'away' 'niggaz'
+ 'ya' 'gone' 'again' 'blue' 'blue' 'our' 'good']
+['fall' 'long' 'heart' 'old' 'heart' 'yo' 'yall' 'niggaz' 'ya' 'de' 'wait'
+ 'yall' 'old' 'blue' 'wait' 'noth' 'good' 'yo' 'our' 'blue' 'old' 'niggaz'
+ 'well' 'littl' 'fall']
+-----------------------------------------------------
+Generating 5 Rock Pop Songs
+-----------------------------------------------------
+['fuck' 'old' 'ich' 'eye' 'ich' 'und' 'fuck' 'bitch' 'away' 'fuck' 'bitch'
+ 'niggaz' 'littl' 'night' 'home' 'und' 'our' 'again' 'ya' 'yo' 'niggaz'
+ 'und' 'old' 'gone' 'ya' 'our' 'home']
+['fall' 'heart' 'littl' 'shit' 'fall' 'lie' 'lie' 'away' 'shit' 'away'
+ 'fuck' 'yall' 'noth' 'de' 'away' 'night' 'shit' 'und' 'light' 'fall' 'und'
+ 'lie' 'niggaz' 'littl' 'lie' 'well']
+['noth' 'old' 'shit' 'littl' 'home' 'light' 'our' 'und' 'away' 'well'
+ 'well' 'lie' 'niggaz' 'niggaz' 'night' 'fuck' 'eye' 'home' 'good' 'yo'
+ 'fall' 'niggaz' 'de' 'fuck' 'shit']
+['gone' 'yall' 'light' 'fall' 'home' 'yo' 'wait' 'ya' 'blue' 'heart' 'wait'
+ 'noth' 'fuck' 'de' 'well' 'littl' 'shit' 'de' 'und' 'yo' 'shit' 'gone'
+ 'niggaz' 'ya']
+['night' 'yall' 'old' 'ya' 'shit' 'bitch' 'long' 'light' 'well' 'yall'
+ 'fuck' 'littl' 'end' 'fuck' 'again' 'wait' 'gone' 'de' 'long' 'bitch'
+ 'good' 'und' 'lie' 'blue']
+-----------------------------------------------------
+Generating 5 Country Songs
+-----------------------------------------------------
+['noth' 'wait' 'niggaz' 'fuck' 'home' 'ich' 'blue' 'shit' 'littl' 'well'
+ 'shit' 'well' 'night' 'noth' 'home' 'light' 'wait' 'littl' 'wait' 'und'
+ 'gone' 'bitch' 'yall']
+['ich' 'night' 'bitch' 'home' 'de' 'heart' 'shit' 'littl' 'lie' 'light'
+ 'fuck' 'shit' 'littl' 'noth' 'gone' 'shit' 'yo' 'fuck' 'yall' 'eye' 'fall'
+ 'fuck' 'our' 'littl' 'long']
+['heart' 'our' 'de' 'yall' 'yo' 'noth' 'littl' 'noth' 'yall' 'away' 'littl'
+ 'home' 'und' 'light' 'shit' 'away' 'ya' 'end' 'long' 'long' 'niggaz' 'yo'
+ 'ich' 'yo' 'away' 'long' 'blue' 'good']
+['end' 'old' 'yo' 'ich' 'fuck' 'niggaz' 'fuck' 'littl' 'fuck' 'yall' 'blue'
+ 'yall' 'fall' 'old' 'old' 'end' 'gone' 'lie' 'niggaz' 'heart' 'wait'
+ 'night' 'littl' 'und']
+['home' 'und' 'blue' 'ya' 'end' 'night' 'heart' 'blue' 'yo' 'home' 'und'
+ 'away' 'well' 'gone' 'de' 'de' 'yall' 'fall' 'niggaz' 'noth' 'yo' 'de']
+-----------------------------------------------------

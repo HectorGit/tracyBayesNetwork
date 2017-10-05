@@ -1,0 +1,56 @@
+#In k-fold cross-validation, the original sample is randomly
+#partitioned into k equal sized subsamples. Of the k subsamples, 
+#a single subsample is retained as the validation data for testing the model, 
+#and the remaining k − 1 subsamples are used as training data. The cross-validation 
+#process is then repeated k times (the folds), with each of the k subsamples used exactly
+#once as the validation data. The k results from the folds can then be averaged to produce
+#a single estimation. The advantage of this method over repeated random sub-sampling (see below) 
+#is that all observations are used for both training and validation, and each observation is used
+#for validation exactly once. 10-fold cross-validation is commonly used,[6] but in general k 
+#remains an unfixed parameter.
+
+#average accuracies for k folds to calculate accuracy
+
+#to calculate the output confusion matrix, add the confusion matrices for all folds. (each fold)
+#classifies 1/k th of the data
+
+	
+		# TEST SET = 100 = (1000/10) elements from each set = 300 elements
+		# iter 1
+		# dataRap[:100] + dataRockPop[:100] + dataCountry[:100]
+		# 
+		# iter 2
+		# dataRap[100:100+100] + dataRockPop[100:100+100] + dataCountry[100:100+100]
+		#
+		# iter 3
+		# dataRap[200:200+100] + dataRockPop[200:200+100] + dataRockPop[200:200+100] 
+		# until we hit 1000. ->  iterations total.
+		# ...
+		# until dataRap[900:900+100] + ... ;
+		#
+		#
+		# TRAINING SET = 900 elements per genre = 2700 elements
+		#
+		# iter 1
+		# -> skip 100
+		#
+		# part of 100 elements
+		# dataRap[100:200]+ ...;
+		# concat
+		# part of 800 elements
+		# dataRap[200:]+...;
+		#
+		# iter 2 
+		# part of 100 elements -> skip 100 
+		# concat part of 800 elements
+		# 
+		# part of 200 elements -> skip 100
+		# concat part of 700 elements
+		#
+		# part of 300 elements -> skip 100
+		# concat part of 600 elements
+		# 
+		# part of 400 -> skip 100 | concat 500 elements
+		# ... until
+		# part of 800 elements -> skip 100 | concat part of 100 elements
+		# part of 800 elements concat part 100 elements -> skip 100|

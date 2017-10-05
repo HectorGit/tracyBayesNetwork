@@ -1,0 +1,136 @@
+
+------------Final Probabilities:-----------
+Probabilities per word
+    de : 0.03667 
+niggaz : 0.07667 
+    ya : 0.20000 
+   und : 0.01000 
+  yall : 0.10000 
+   ich : 0.01000 
+  fuck : 0.16333 
+  shit : 0.20667 
+    yo : 0.15000 
+ bitch : 0.11333 
+   end : 0.16667 
+  wait : 0.14667 
+ again : 0.19000 
+ light : 0.23667 
+   eye : 0.27000 
+  noth : 0.15000 
+   lie : 0.11667 
+  fall : 0.19667 
+   our : 0.23667 
+  away : 0.24333 
+  gone : 0.18333 
+  good : 0.22667 
+ night : 0.29667 
+  blue : 0.11667 
+  home : 0.19667 
+  long : 0.21000 
+ littl : 0.19333 
+  well : 0.21000 
+ heart : 0.23667 
+   old : 0.21333 
+
+Probabilities For Rap
+    de : 0.08000 
+niggaz : 0.21000 
+    ya : 0.47000 
+   und : 0.03000 
+  yall : 0.29000 
+   ich : 0.03000 
+  fuck : 0.38000 
+  shit : 0.55000 
+    yo : 0.42000 
+ bitch : 0.31000 
+   end : 0.21000 
+  wait : 0.10000 
+ again : 0.16000 
+ light : 0.23000 
+   eye : 0.25000 
+  noth : 0.11000 
+   lie : 0.06000 
+  fall : 0.17000 
+   our : 0.27000 
+  away : 0.18000 
+  gone : 0.17000 
+  good : 0.30000 
+ night : 0.22000 
+  blue : 0.08000 
+  home : 0.18000 
+  long : 0.13000 
+ littl : 0.20000 
+  well : 0.19000 
+ heart : 0.19000 
+   old : 0.18000 
+
+Probabilities For Rock Pop
+    de : 0.02000 
+niggaz : 0.02000 
+    ya : 0.08000 
+   und : 0.00000 
+  yall : 0.01000 
+   ich : 0.00000 
+  fuck : 0.10000 
+  shit : 0.06000 
+    yo : 0.00000 
+ bitch : 0.02000 
+   end : 0.20000 
+  wait : 0.17000 
+ again : 0.17000 
+ light : 0.22000 
+   eye : 0.32000 
+  noth : 0.20000 
+   lie : 0.20000 
+  fall : 0.25000 
+   our : 0.24000 
+  away : 0.31000 
+  gone : 0.13000 
+  good : 0.11000 
+ night : 0.24000 
+  blue : 0.11000 
+  home : 0.20000 
+  long : 0.15000 
+ littl : 0.15000 
+  well : 0.14000 
+ heart : 0.19000 
+   old : 0.12000 
+
+Probabilities For Country
+    de : 0.01000 
+niggaz : 0.00000 
+    ya : 0.05000 
+   und : 0.00000 
+  yall : 0.00000 
+   ich : 0.00000 
+  fuck : 0.01000 
+  shit : 0.01000 
+    yo : 0.03000 
+ bitch : 0.01000 
+   end : 0.09000 
+  wait : 0.17000 
+ again : 0.24000 
+ light : 0.26000 
+   eye : 0.24000 
+  noth : 0.14000 
+   lie : 0.09000 
+  fall : 0.17000 
+   our : 0.20000 
+  away : 0.24000 
+  gone : 0.25000 
+  good : 0.27000 
+ night : 0.43000 
+  blue : 0.16000 
+  home : 0.21000 
+  long : 0.35000 
+ littl : 0.23000 
+  well : 0.30000 
+ heart : 0.33000 
+   old : 0.34000 
+
+       a        b        c
+     784      134       82 | a = Rap
+      91      579      330 | b = Rock Pop
+      30      281      689 | c = Country
+
+Accuracy: 68.40 % 
